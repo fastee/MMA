@@ -1,5 +1,8 @@
 # MMA
 
-Mindmap-like markdown with atom literature
+Mindmap-like, with markdown note and linked atom literature
 
-## targets
+## targets restrain
+
+1.
+2.
